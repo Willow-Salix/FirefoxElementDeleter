@@ -1,0 +1,20 @@
+{
+  "name": "firefox-addon",
+  "version": "1.0.0",
+  "description": "A Firefox add-on that deletes a specified element on click.",
+  "main": "background.js",
+  "scripts": {
+    "build": "echo 'Building the add-on...'",
+    "test": "echo 'Running tests...'",
+    "lint": "echo 'Linting the code...'"
+  },
+  "keywords": [
+    "firefox",
+    "addon",
+    "extension"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
